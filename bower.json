@@ -1,0 +1,12 @@
+{
+  "name": "grunt-test-project",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dotunolusoga/grunt-test-project",
+  "authors": [
+    "Dotun Olusoga <adedotun.olusoga@gmail.com>"
+  ],
+  "description": "This app is a test of using grunt rather than prepros",
+  "main": "public/index.html",
+  "license": "MIT",
+  "private": true
+}
